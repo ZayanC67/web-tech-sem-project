@@ -10,3 +10,8 @@ body {
 .quiz-container {
     width: 400px;
 }
+
+.title {
+    text-align: center;
+    margin-bottom: 20px;
+}
