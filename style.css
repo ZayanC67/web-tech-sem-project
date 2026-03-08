@@ -37,3 +37,14 @@ body {
 .options li {
     margin-bottom: 12px;
 }
+
+
+.next-btn {
+    width: 100%;
+    padding: 10px;
+    background: #4a6cf7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
