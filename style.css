@@ -27,3 +27,13 @@ body {
 .question {
     margin-bottom: 20px;
 }
+
+
+.options {
+    list-style: none;
+    padding: 0;
+}
+
+.options li {
+    margin-bottom: 12px;
+}
