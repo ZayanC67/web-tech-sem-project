@@ -48,3 +48,7 @@ body {
     border-radius: 5px;
     cursor: pointer;
 }
+
+.next-btn:hover {
+    background: #3b5be0;
+}
